@@ -5,7 +5,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  
   "author": "",
+  "type":"mpdule",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "mysql2": "^3.14.0",
+    "sequelize": "^6.37.7"
+  }
 }
